@@ -1,5 +1,7 @@
 # Contributing
 
+Send an email to lieblings_kollege@firma.com
+
 Your contributions are always welcome!
 
 ## Guideline
